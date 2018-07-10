@@ -1,1 +1,1 @@
-# mc-repo
+# Micro service property files
